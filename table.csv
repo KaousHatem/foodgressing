@@ -1,0 +1,398 @@
+,Type,SubType,Menu Item,Size,Price,Calories
+0,Burgers,Big Mac,Big Mac,,5.69,520
+1,Burgers,Big Mac,Double Big Mac,,7.19,680
+2,Burgers,Big Mac,"Big Mac, No Meat",,4.19,360
+3,Burgers,Quarter Pounder,Quarter Pounder With Cheese,,5.69,520
+4,Burgers,Quarter Pounder,Double Quarter Pounder With Cheese,,7.19,740
+5,Burgers,Quarter Pounder,Quarter Pounder BLT,,6.09,600
+6,Burgers,Quarter Pounder,Double Quarter Pounder BLT,,7.49,830
+7,Burgers,Quarter Pounder,Quarter Pounder Without Cheese,,5.19,420
+8,Burgers,Quarter Pounder,Double Quarter Pounder Without Cheese,,6.59,650
+9,Burgers,Cheeseburger,Cheeseburger,,1.89,290
+10,Burgers,Cheeseburger,Double Cheeseburger,,2.39,420
+11,Burgers,Hamburger,Hamburger,,1.69,240
+12,Burgers,Hamburger,Double Hamburger,,1.99,320
+13,Burgers,Hamburger,McDouble,,2.29,370
+14,Burgers,Mighty Angus Range,Carolina BBQ Angus,,6.99,790
+15,Burgers,Mighty Angus Range,Mighty Angus Original,,6.99,790
+16,Burgers,Mighty Angus Range,Bacon and Cheddar Angus,,6.99,770
+17,Chicken,Seriously Chicken,BLT with Crispy Chicken,,7.19,700
+18,Chicken,Seriously Chicken,BLT with Grilled Chicken,,7.19,560
+19,Chicken,Seriously Chicken,Tomato & Mozzarella with Crispy Chicken,,7.19,630
+20,Chicken,Seriously Chicken,Tomato & Mozzarella with Grilled Chicken,,7.19,500
+21,Chicken,Signature McWraps,Chicken & Bacon Signature McWrwap with Grilled Chicken,,5.79,500
+22,Chicken,Signature McWraps,Chicken & Bacon Signature McWrap with Crispy Chicken,,5.79,600
+23,Chicken,Signature McWraps,Sweet Chili Signature McWrap with Crispy Chicken,,5.79,520
+24,Chicken,Signature McWraps,Sweet Chili Signature McWrap with Grilled Chicken,,5.79,420
+25,Chicken,McChicken,McChicken,,5.39,470
+26,Chicken,McNuggets,6 Chicken McNuggets,,5.59,280-310
+27,Chicken,McNuggets,10 Chicken McNuggets,,6.99,410
+28,Chicken,McNuggets,20 Chicken McNuggets,,10.29,830
+29,Chicken,Snack Wraps,Ranch Snack Wrap with Crispy Chicken,,2.49,290
+30,Chicken,Snack Wraps,Ranch Snack Wrap with Grilled Chicken,,2.49,240
+31,Chicken,Snack Wraps,Chipotle Snack Wrap with Crispy Chicken,,2.49,290
+32,Chicken,Snack Wraps,Chipotle Snack Wrap with Grilled Chicken,,2.49,240
+33,Chicken,Snack Wraps,Junior Chicken,,1.99,370
+34,Filet-O-Fish,Filet-O-Fish,Filet-O-Fish,,5.19,400
+35,Filet-O-Fish,Filet-O-Fish,Double Filet-O-Fish,,6.59,560
+36,Salads & Wraps,Entrée Salads,Caesar Entrée Salad with Crispy Chicken,,7.79,1030-1120
+37,Salads & Wraps,Entrée Salads,Caesar Entrée Salad with Grilled Chicken,,7.79,760-850
+38,Salads & Wraps,Entrée Salads,Greek Salad with Grilled Chicken,,7.79,631-721
+39,Salads & Wraps,Entrée Salads,Greek Salad with Crispy Chicken,,7.79,901-991
+40,Salads & Wraps,Entrée Salads,Greek Entrée Salad,,5.79,391-481
+41,Salads & Wraps,Entrée Salads,Caesar Entrée Salad,,5.79,520-610
+42,Salads & Wraps,Side Salads,Side Caesar Salad,,2.89,250-340
+43,Salads & Wraps,Side Salads,Side Garden Salad,,2.89,150-240
+44,Sandwiches and Wraps,McMuffin Sandwiches,Egg McMuffin,,3.79,290
+45,Sandwiches and Wraps,McMuffin Sandwiches,Sausage 'N Egg McMuffin,,3.89,430
+46,Sandwiches and Wraps,McMuffin Sandwiches,Bacon N' Egg McMuffin,,3.89,310
+47,Sandwiches and Wraps,McMuffin Sandwiches,Sausage McMuffin,,1.99,370
+48,Sandwiches and Wraps,More-ning McWraps,Sausage & Hash Brown McWrap,,4.39,710
+49,Sandwiches and Wraps,More-ning McWraps,Bacon & Hason Brown McWRap,,4.39,590
+50,Sandwiches and Wraps,Breakfast Burritos,Breakfast Burrito,,2.39,290
+51,Sandwiches and Wraps,Breakfast Burritos,2 Breakfast Burritos,,4.69,580
+52,Sandwiches and Wraps,Breakfast Burritos,2 Breakfast Burritos Extra Value Meal,,6.79,750
+53,Sandwiches and Wraps,McGriddles Sandwiches,McGriddle,,1.69,260
+54,Sandwiches and Wraps,McGriddles Sandwiches,"Sausage, Egg & Cheese McGriddles",,4.19,520
+55,Sandwiches and Wraps,McGriddles Sandwiches,"Bacon, Egg & Cheese McGriddles",,4.19,400
+56,Sandwiches and Wraps,McGriddles Sandwiches,Sausage McGriddles,,2.59,400
+57,Platters & Hotcakes,Platters & Hotcakes,Hotcakes & Sausage,,4.49,760
+58,Platters & Hotcakes,Platters & Hotcakes,Hotcakes & Bacon,,4.49,670
+59,Platters & Hotcakes,Platters & Hotcakes,Hotcakes,,3.49,600
+60,Platters & Hotcakes,Platters & Hotcakes,Big Breakfast,,4.69,690-750
+61,Happy Meals,Happy Meals,Happy Meal Hamburger with Mini Fries,,3.99,305-670
+62,Happy Meals,Happy Meals,Happy Meal Hamburger with Apples,,3.99,305-675
+63,Happy Meals,Happy Meals,Happy Meal Hamburger with Small Fries,,3.99,305-675
+64,Happy Meals,Happy Meals,Happy Meal Cheeseburger with Mini Fry,,4.59,355-725
+65,Happy Meals,Happy Meals,Happy Meal Cheeseburger with Apples,,4.59,355-725
+66,Happy Meals,Happy Meals,Happy Meal Cheeseburger with Small Fries,,4.59,355-725
+67,Happy Meals,Happy Meals,Happy Meal Grilled Chipotle Snack Wrap with Mini Fries,,4.59,305-675
+68,Happy Meals,Happy Meals,Happy Meal Grilled Chipotle Snack Wrap with Apples,,4.59,305-675
+69,Happy Meals,Happy Meals,Happy Meal Grilled Chipotle Snack Wrap with Small Fries,,4.59,305-675
+70,Happy Meals,Happy Meals,Happy Meal Crispy Chipotle Snack Wrap with Mini Fries,,4.59,355-725
+71,Happy Meals,Happy Meals,Happy Meal Crispy Chipotle Snack Wrap with Apples,,4.59,355-725
+72,Happy Meals,Happy Meals,Happy Meal Crispy Chipotle Snack Wrap with Small Fries,,4.59,355-725
+73,Happy Meals,Happy Meals,Happy Meal Grilled Ranch Snack Wrap with Mini Fries,,4.59,305-675
+74,Happy Meals,Happy Meals,Happy Meal Grilled Ranch Snack Wrap with Apples,,4.59,305-675
+75,Happy Meals,Happy Meals,Happy Meal Grilled Ranch Snack Wrap with Small Fries,,4.59,305-675
+76,Happy Meals,Happy Meals,Happy Meal Crispy Ranch Snack Wrap with Mini Fries,,4.59,355-725
+77,Happy Meals,Happy Meals,Happy Meal Crispy Ranch Snack Wrap with Apples,,4.59,355-725
+78,Happy Meals,Happy Meals,Happy Meal Crispy Ranch Snack Wrap with Small Fries,,4.59,355-725
+79,Happy Meals,Happy Meals,Happy Meal 4 McNuggets with Mini Fries,,4.79,275-655
+80,Happy Meals,Happy Meals,Happy Meal 4 McNuggets with Apples,,4.79,275-655
+81,Happy Meals,Happy Meals,Happy Meal 4 McNuggets with Small Fries,,4.79,275-665
+82,Happy Meals,Happy Meals,Happy Meal Hotcakes with Mini Fry,,4.19,665-955
+83,Happy Meals,Happy Meals,Happy Meal Hotcakes with Small Fries,,4.19,665-955
+84,Happy Meals,Happy Meals,Happy Meal Hotcakes with Hash Browns,,4.19,665-955
+85,Happy Meals,Happy Meals,Happy Meal Hotcakes with Apple Slices,,2.9,665-955
+86,Happy Meals,Happy Meals,Happy Meal Plain Bagel with Hash Browns,,3.99,380-630
+87,Happy Meals,Happy Meals,Happy Meal Plain Bagel with Apples,,3.99,380-630
+88,Happy Meals,Happy Meals,Happy Meal Everything Bagel with Hash Brows,,3.99,380-630
+89,Happy Meals,Happy Meals,Happy Meal Everything Bagel with Apples,,3.99,380-630
+90,Happy Meals,Happy Meals,Happy Meal Multigrain Bagel with Hash Browns,,3.99,380-630
+91,Happy Meals,Happy Meals,Happy Meal Multigrain Bagel with Apple Slices,,3.99,380-630
+92,Happy Meals,Happy Meals,Happy Meal Cinnamon Raisin Bagel with Hash Browns,,3.99,380-630
+93,Happy Meals,Happy Meals,Happy Meal Cinnamon Raisin Bagel with Apples,,3.99,380-630
+94,Happy Meals,Happy Meals,Happy Meal Plain Bagel with Mini Fry,,3.99,380-690
+95,Happy Meals,Happy Meals,Happy Meal Plain Bagel with Small Fries,,3.99,680-690
+96,Happy Meals,Happy Meals,Happy Meal Plain Bagel with Hash Browns,,3.99,380-690
+97,Happy Meals,Happy Meals,Happy Meal Plain Bagel with Apples,,3.99,680-690
+98,Hot Drinks,Brewed Coffee & Tea,Premium Roast Brewed Coffee,Small,1.49,3
+99,Hot Drinks,Brewed Coffee & Tea,Premium Roast Brewed Coffee,Medium,1.79,4
+100,Hot Drinks,Brewed Coffee & Tea,Premium Roast Brewed Coffee,Large,1.99,5
+101,Hot Drinks,Brewed Coffee & Tea,Premium Roast Brewed Coffee,Extra Large,2.19,5
+102,Hot Drinks,Brewed Coffee & Tea,Premium Roast Decaf Coffee,Small,1.49,0
+103,Hot Drinks,Brewed Coffee & Tea,Premium Roast Decaf Coffee,Medium,1.79,0
+104,Hot Drinks,Brewed Coffee & Tea,Premium Roast Decaf Coffee,Large,1.99,0
+105,Hot Drinks,Brewed Coffee & Tea,Premium Roast Decaf Coffee,Extra Large,2.19,0
+106,Hot Drinks,Brewed Coffee & Tea,Premium Roast Brewed Senior Coffee,Small,1.19,3
+107,Hot Drinks,Brewed Coffee & Tea,Premium Roast Brewed Senior Coffee,Medium,1.43,4
+108,Hot Drinks,Brewed Coffee & Tea,Premium Roast Brewed Senior Coffee,Large,1.59,5
+109,Hot Drinks,Brewed Coffee & Tea,Premium Roast Brewed Senior Coffee,Extra Large,1.75,5
+110,Hot Drinks,Brewed Coffee & Tea,Premium Roast Senior Decafe Coffee,Small,1.19,0
+111,Hot Drinks,Brewed Coffee & Tea,Premium Roast Senior Decafe Coffee,Medium,1.43,0
+112,Hot Drinks,Brewed Coffee & Tea,Premium Roast Senior Decafe Coffee,Large,1.59,0
+113,Hot Drinks,Brewed Coffee & Tea,Premium Roast Senior Decafe Coffee,Extra Large,1.75,0
+114,Hot Drinks,Brewed Coffee & Tea,Orange Pekoe Tea,Small,1.49,0
+115,Hot Drinks,Brewed Coffee & Tea,Orange Pekoe Tea,Medium,1.79,0
+116,Hot Drinks,Brewed Coffee & Tea,Orange Pekoe Tea,Large,1.99,0
+117,Hot Drinks,Brewed Coffee & Tea,Orange Pekoe Tea,Extra Large,2.19,0
+118,Hot Drinks,Brewed Coffee & Tea,Senior Orange Pekoe Tea,Small,1.19,0
+119,Hot Drinks,Brewed Coffee & Tea,Senior Orange Pekoe Tea,Medium,1.43,0
+120,Hot Drinks,Brewed Coffee & Tea,Senior Orange Pekoe Tea,Large,1.59,0
+121,Hot Drinks,Brewed Coffee & Tea,Senior Orange Pekoe Tea,Extra Large,1.75,0
+122,Hot Drinks,Brewed Coffee & Tea,Peppermint Tea,Small,1.49,0
+123,Hot Drinks,Brewed Coffee & Tea,Peppermint Tea,Medium,1.79,0
+124,Hot Drinks,Brewed Coffee & Tea,Peppermint Tea,Large,1.99,0
+125,Hot Drinks,Brewed Coffee & Tea,Peppermint Tea,Extra Large,2.19,0
+126,Hot Drinks,Brewed Coffee & Tea,Senior Peppermint Tea,Small,1.19,0
+127,Hot Drinks,Brewed Coffee & Tea,Senior Peppermint Tea,Medium,1.43,0
+128,Hot Drinks,Brewed Coffee & Tea,Senior Peppermint Tea,Large,1.59,0
+129,Hot Drinks,Brewed Coffee & Tea,Senior Peppermint Tea,Extra Large,1.75,0
+130,Hot Drinks,Brewed Coffee & Tea,Earl Grey Tea,Small,1.49,0
+131,Hot Drinks,Brewed Coffee & Tea,Earl Grey Tea,Medium,1.79,0
+132,Hot Drinks,Brewed Coffee & Tea,Earl Grey Tea,Large,1.99,0
+133,Hot Drinks,Brewed Coffee & Tea,Earl Grey Tea,Extra Large,2.19,0
+134,Hot Drinks,Brewed Coffee & Tea,Senior Earl Grey Tea,Small,1.19,0
+135,Hot Drinks,Brewed Coffee & Tea,Senior Earl Grey Tea,Medium,1.43,0
+136,Hot Drinks,Brewed Coffee & Tea,Senior Earl Grey Tea,Large,1.59,0
+137,Hot Drinks,Brewed Coffee & Tea,Senior Earl Grey Tea,Extra Large,1.75,0
+138,Hot Drinks,Brewed Coffee & Tea,Green Tea,Small,1.49,0
+139,Hot Drinks,Brewed Coffee & Tea,Green Tea,Medium,1.79,0
+140,Hot Drinks,Brewed Coffee & Tea,Green Tea,Large,1.99,0
+141,Hot Drinks,Brewed Coffee & Tea,Green Tea,Extra Large,2.19,0
+142,Hot Drinks,Brewed Coffee & Tea,Senior Green Tea,Small,1.19,0
+143,Hot Drinks,Brewed Coffee & Tea,Senior Green Tea,Medium,1.43,0
+144,Hot Drinks,Brewed Coffee & Tea,Senior Green Tea,Large,1.59,0
+145,Hot Drinks,Brewed Coffee & Tea,Senior Green Tea,Extra Large,1.75,0
+146,Hot Drinks,Brewed Coffee & Tea,Premium Roast Coffee Carafe,,15.99,36
+147,Hot Drinks,Brewed Coffee & Tea,Premium Roast Decafe Coffee Carafe,,15.99,N/A
+148,Hot Drinks,Latte,Latte (2% Milk),Small,2.49,130
+149,Hot Drinks,Latte,Latte (2% Milk),Medium,2.99,170
+150,Hot Drinks,Latte,Latte (2% Milk),Large,3.39,240
+151,Hot Drinks,Latte,Latte (Skim Milk),Small,2.49,70
+152,Hot Drinks,Latte,Latte (Skim Milk),Medium,2.99,100
+153,Hot Drinks,Latte,Latte (Skim Milk),Large,3.39,140
+154,Hot Drinks,Latte,French Vanilla Latte (2% Milk),Small,2.79,180
+155,Hot Drinks,Latte,French Vanilla Latte (2% Milk),Medium,3.29,240
+156,Hot Drinks,Latte,French Vanilla Latte (2% Milk),Large,3.69,330
+157,Hot Drinks,Latte,French Vanilla Latte (Skim Milk),Small,2.79,120
+158,Hot Drinks,Latte,French Vanilla Latte (Skim Milk),Medium,3.29,170
+159,Hot Drinks,Latte,French Vanilla Latte (Skim Milk),Large,3.69,230
+160,Hot Drinks,Latte,Caramel Latte (2% Milk),Small,2.79,190
+161,Hot Drinks,Latte,Caramel Latte (2% Milk),Medium,3.29,250
+162,Hot Drinks,Latte,Caramel Latte (2% Milk),Large,3.69,340
+163,Hot Drinks,Latte,Caramel Latte (Skim Milk),Small,2.79,140
+164,Hot Drinks,Latte,Caramel Latte (Skim Milk),Medium,3.29,190
+165,Hot Drinks,Latte,Caramel Latte (Skim Milk),Large,3.69,250
+166,Hot Drinks,Latte,Sugar Free Vanilla Latte (2% Milk),Small,2.79,120
+167,Hot Drinks,Latte,Sugar Free Vanilla Latte (2% Milk),Medium,3.29,160
+168,Hot Drinks,Latte,Sugar Free Vanilla Latte (2% Milk),Large,3.69,220
+169,Hot Drinks,Latte,Sugar Free Vanilla Latte (Skim Milk),Small,2.79,70
+170,Hot Drinks,Latte,Sugar Free Vanilla Latte (Skim Milk),Medium,3.29,100
+171,Hot Drinks,Latte,Sugar Free Vanilla Latte (Skim Milk),Large,3.69,130
+172,Hot Drinks,Cappuccino,Cappuccino (2% Milk),Small,2.79,80
+173,Hot Drinks,Cappuccino,Cappuccino (2% Milk),Medium,2.99,130
+174,Hot Drinks,Cappuccino,Cappuccino (2% Milk),Large,3.39,190
+175,Hot Drinks,Cappuccino,Cappuccino (Skim Milk),Small,2.789,50
+176,Hot Drinks,Cappuccino,Cappuccino (Skim Milk),Medium,2.99,80
+177,Hot Drinks,Cappuccino,Cappuccino (Skim Milk),Large,3.39,110
+178,Hot Drinks,Americano,Americano,Small,1.99,3
+179,Hot Drinks,Americano,Americano,Medium,2.19,4
+180,Hot Drinks,Americano,Americano,Large,2.49,5
+181,Hot Drinks,Mocha,McCafe Mocha (2% Milk),Small,2.89,260
+182,Hot Drinks,Mocha,McCafe Mocha (2% Milk),Medium,3.49,380
+183,Hot Drinks,Mocha,McCafe Mocha (2% Milk),Large,3.89,490
+184,Hot Drinks,Mocha,McCafe Mocha (Skim Milk),Small,2.89,210
+185,Hot Drinks,Mocha,McCafe Mocha (Skim Milk),Medium,3.49,320
+186,Hot Drinks,Mocha,McCafe Mocha (Skim Milk),Large,3.89,400
+187,Hot Drinks,Mocha,White Chocolate Mocha (2% Milk),Small,2.89,260
+188,Hot Drinks,Mocha,White Chocolate Mocha (2% Milk),Medium,3.49,360
+189,Hot Drinks,Mocha,White Chocolate Mocha (2% Milk),Large,3.89,450
+190,Hot Drinks,Mocha,White Chocolate Mocha (Skim Milk),Small,2.89,210
+191,Hot Drinks,Mocha,White Chocolate Mocha (Skim Milk),Medium,3.49,290
+192,Hot Drinks,Mocha,White Chocolate Mocha (Skim Milk),Large,3.89,360
+193,Hot Drinks,Espresso,Espresso,,1.39,3
+194,Hot Drinks,Espresso,Double Espresso,,1.99,5
+195,Hot Drinks,Espresso,Long Espresso,,2.39,1
+196,Hot Drinks,Deluxe Hot Chocolate,White Hot Chocolate (2% Milk),Small,2.49,260
+197,Hot Drinks,Deluxe Hot Chocolate,White Hot Chocolate (2% Milk),Medium,2.99,360
+198,Hot Drinks,Deluxe Hot Chocolate,White Hot Chocolate (2% Milk),Large,3.39,450
+199,Hot Drinks,Deluxe Hot Chocolate,White Hot Chocolate (Skim Milk),Small,2.99,210
+200,Hot Drinks,Deluxe Hot Chocolate,White Hot Chocolate (Skim Milk),Medium,2.99,290
+201,Hot Drinks,Deluxe Hot Chocolate,White Hot Chocolate (Skim Milk),Large,3.39,350
+202,Hot Drinks,Deluxe Hot Chocolate,Hot Chocolate (2% Milk),Small,2.49,250
+203,Hot Drinks,Deluxe Hot Chocolate,Hot Chocolate (2% Milk),Medium,2.99,400
+204,Hot Drinks,Deluxe Hot Chocolate,Hot Chocolate (2% Milk),Large,3.39,500
+205,Hot Drinks,Deluxe Hot Chocolate,Hot Chocolate (Skim Milk),Small,2.49,210
+206,Hot Drinks,Deluxe Hot Chocolate,Hot Chocolate (Skim Milk),Medium,2.99,320
+207,Hot Drinks,Deluxe Hot Chocolate,Hot Chocolate (Skim Milk),Large,3.39,400
+208,Snacks & Sides,Hash Browns,Hash Brown,,1.79,160
+209,Snacks & Sides,English Muffin,English Muffin,,1.49,250-310
+210,Snacks & Sides,Bakery Pairing,Banana Chocolate Chunk Muffin Pairing,,1.99,430
+211,Snacks & Sides,Bakery Pairing,Blueberry Muffin Pairing,,1.99,430
+212,Snacks & Sides,Bakery Pairing,Fruit & Fibre Muffin Pairing,,1.99,380
+213,Snacks & Sides,Bakery Pairing,Carrot Muffin Pairing,,1.99,430
+214,Snacks & Sides,Bakery Pairing,Cranberry Orange Muffin Pairing,,1.99,360
+215,Snacks & Sides,More Snacks,Apple Slices,,0.99,40
+216,Cold Drinks,Smoothies & Frappes,Mango Pineapple Real Fruit Smoothie,Small,2.74,200
+217,Cold Drinks,Smoothies & Frappes,Mango Pineapple Real Fruit Smoothie,Medium,3.34,250
+218,Cold Drinks,Smoothies & Frappes,Mango Pineapple Real Fruit Smoothie,Large,3.74,320
+219,Cold Drinks,Smoothies & Frappes,Mango Pineapple Real Fruit Smoothie,Snack,1.99,140
+220,Cold Drinks,Smoothies & Frappes,Blueberry Pomegranate Real Fruit Smoothie,Small,2.74,210
+221,Cold Drinks,Smoothies & Frappes,Blueberry Pomegranate Real Fruit Smoothie,Medium,3.34,250
+222,Cold Drinks,Smoothies & Frappes,Blueberry Pomegranate Real Fruit Smoothie,Large,3.74,330
+223,Cold Drinks,Smoothies & Frappes,Blueberry Pomegranate Real Fruit Smoothie,Snack,1.99,130
+224,Cold Drinks,Smoothies & Frappes,Strawberry Banana Real Fruit Smoothie,Small,2.74,200
+225,Cold Drinks,Smoothies & Frappes,Strawberry Banana Real Fruit Smoothie,Medium,3.34,250
+226,Cold Drinks,Smoothies & Frappes,Strawberry Banana Real Fruit Smoothie,Large,3.74,310
+227,Cold Drinks,Smoothies & Frappes,Strawberry Banana Real Fruit Smoothie,Snack,1.99,130
+228,Cold Drinks,Smoothies & Frappes,Coffee Iced Frappe,Small,2.74,370
+229,Cold Drinks,Smoothies & Frappes,Coffee Iced Frappe,Medium,3.34,480
+230,Cold Drinks,Smoothies & Frappes,Coffee Iced Frappe,Large,3.74,590
+231,Cold Drinks,Smoothies & Frappes,Coffee Iced Frappe,Snack,1.99,250
+232,Cold Drinks,Smoothies & Frappes,Vanilla Chai Iced Frappe,Small,2.74,460
+233,Cold Drinks,Smoothies & Frappes,Vanilla Chai Iced Frappe,Medium,3.34,580
+234,Cold Drinks,Smoothies & Frappes,Vanilla Chai Iced Frappe,Large,3.74,720
+235,Cold Drinks,Smoothies & Frappes,Vanilla Chai Iced Frappe,Snack,1.99,310
+236,Cold Drinks,Iced Coffee,Iced Coffee,Small,1.79,120
+237,Cold Drinks,Iced Coffee,Iced Coffee,Medium,2.39,170
+238,Cold Drinks,Iced Coffee,Iced Coffee,Large,2.79,230
+239,Cold Drinks,Iced Coffee,Vanilla Iced Coffee,Small,2.19,100
+240,Cold Drinks,Iced Coffee,Vanilla Iced Coffee,Medium,2.79,150
+241,Cold Drinks,Iced Coffee,Vanilla Iced Coffee,Large,3.19,190
+242,Cold Drinks,Iced Coffee,Caramel Iced Coffee,Small,2.19,100
+243,Cold Drinks,Iced Coffee,Caramel Iced Coffee,Medium,2.79,130
+244,Cold Drinks,Iced Coffee,Caramel Iced Coffee,Large,3.19,190
+245,Cold Drinks,Iced Coffee,Sugar Free Vanilla Iced Coffee,Small,2.19,60
+246,Cold Drinks,Iced Coffee,Sugar Free Vanilla Iced Coffee,Medium,2.79,100
+247,Cold Drinks,Iced Coffee,Sugar Free Vanilla Iced Coffee,Large,3.19,130
+248,Cold Drinks,"Juice, Milk & Water",Orange Juice,Small,1.69,110
+249,Cold Drinks,"Juice, Milk & Water",Orange Juice,Medium,1.99,180
+250,Cold Drinks,"Juice, Milk & Water",Orange Juice,Large,2.19,220
+251,Cold Drinks,"Juice, Milk & Water",Apple Juice,Small,1.69,110
+252,Cold Drinks,"Juice, Milk & Water",Apple Juice,Medium,1.99,160
+253,Cold Drinks,"Juice, Milk & Water",Apple Juice,Large,2.19,210
+254,Cold Drinks,"Juice, Milk & Water",1% Milk Bottle,,1.69,110
+255,Cold Drinkstr,"Juice, Milk & Water",Chocolate Milk Bottle,,1.69,170
+256,Cold Drinks,"Juice, Milk & Water",Dasani Water,,2.19,
+257,Cold Drinks,Fountain Drinks,NESTEA Iced Tea,Small,1.74,110
+258,Cold Drinks,Fountain Drinks,NESTEA Iced Tea,Medium,2.24,160
+259,Cold Drinks,Fountain Drinks,NESTEA Iced Tea,Large,2.54,230
+260,Cold Drinks,Fountain Drinks,NESTEA Iced Tea,Child,1.29,80
+261,Cold Drinks,Fountain Drinks,Coca-Cola,Small,1.74,150
+262,Cold Drinks,Fountain Drinks,Coca-Cola,Medium,2.24,220
+263,Cold Drinks,Fountain Drinks,Coca-Cola,Large,2.54,320
+264,Cold Drinks,Fountain Drinks,Coca-Cola,Child,1.29,110
+265,Cold Drinks,Fountain Drinks,Coke Zero,Small,1.74,1
+266,Cold Drinks,Fountain Drinks,Coke Zero,Medium,2.24,1
+267,Cold Drinks,Fountain Drinks,Coke Zero,Large,2.54,2
+268,Cold Drinks,Fountain Drinks,Coke Zero,Child,1.29,1
+269,Cold Drinks,Fountain Drinks,Diet Coke,Small,1.74,1
+270,Cold Drinks,Fountain Drinks,Diet Coke,Medium,2.24,1
+271,Cold Drinks,Fountain Drinks,Diet Coke,Large,2.54,2
+272,Cold Drinks,Fountain Drinks,Diet Coke,Child,1.29,1
+273,Cold Drinks,Fountain Drinks,Barq's Root Beer,Small,1.74,160
+274,Cold Drinks,Fountain Drinks,Barq's Root Beer,Medium,2.24,230
+275,Cold Drinks,Fountain Drinks,Barq's Root Beer,Large,2.54,340
+276,Cold Drinks,Fountain Drinks,Barq's Root Beer,Child,1.29,120
+277,Cold Drinks,Fountain Drinks,Sprite,Small,1.74,140
+278,Cold Drinks,Fountain Drinks,Sprite,Medium,2.24,200
+279,Cold Drinks,Fountain Drinks,Sprite,Large,2.54,290
+280,Cold Drinks,Fountain Drinks,Sprite,Child,1.29,100
+281,Cold Drinks,Fountain Drinks,Fruitopia Strawberry,Small,1.74,170
+282,Cold Drinks,Fountain Drinks,Fruitopia Strawberry,Medium,2.24,240
+283,Cold Drinks,Fountain Drinks,Fruitopia Strawberry,Large,2.54,350
+284,Cold Drinks,Fountain Drinks,Fruitopia Strawberry,Child,1.29,120
+285,Cold Drinks,Fountain Drinks,Fruitopia Orange,Small,1.74,160
+286,Cold Drinks,Fountain Drinks,Fruitopia Orange,Medium,2.24,230
+287,Cold Drinks,Fountain Drinks,Fruitopia Orange,Large,2.54,340
+288,Cold Drinks,Fountain Drinks,Fruitopia Orange,Child,1.29,110
+289,Cold Drinks,Milkshakes,Shamrock Triple Thick Milkshake,Small,2.94,520
+290,Cold Drinks,Milkshakes,Shamrock Triple Thick Milkshake,Medium,3.44,690
+291,Cold Drinks,Milkshakes,Shamrock Triple Thick Milkshake,Large,4.04,1070
+292,Cold Drinks,Milkshakes,Shamrock Triple Thick Milkshake,Child,2.19,470
+293,Cold Drinks,Milkshakes,Vanilla Triple Thick Milkshake,Small,2.94,530
+294,Cold Drinks,Milkshakes,Vanilla Triple Thick Milkshake,Medium,3.44,720
+295,Cold Drinks,Milkshakes,Vanilla Triple Thick Milkshake,Large,4.04,1150
+296,Cold Drinks,Milkshakes,Vanilla Triple Thick Milkshake,Child,2.19,490
+297,Cold Drinks,Milkshakes,Chocolate Triple Thick Milkshake,Small,2.94,560
+298,Cold Drinks,Milkshakes,Chocolate Triple Thick Milkshake,Medium,3.44,750
+299,Cold Drinks,Milkshakes,Chocolate Triple Thick Milkshake,Large,4.04,1150
+300,Cold Drinks,Milkshakes,Chocolate Triple Thick Milkshake,Child,2.19,500
+301,Cold Drinks,Milkshakes,Strawberry Triple Thick Milkshake,Small,2.94,540
+302,Cold Drinks,Milkshakes,Strawberry Triple Thick Milkshake,Medium,3.44,720
+303,Cold Drinks,Milkshakes,Strawberry Triple Thick Milkshake,Large,4.04,1100
+304,Cold Drinks,Milkshakes,Strawberry Triple Thick Milkshake,Child,2.19,490
+305,Bakery,Bagel & Bagel Sandwiches,Plain Bagel with Nutella,,2.19,420
+306,Bakery,Bagel & Bagel Sandwiches,Everything Bagel with Nutella,,2.19,430
+307,Bakery,Bagel & Bagel Sandwiches,Multigrain Bagel with Nutella,,2.19,440
+308,Bakery,Bagel & Bagel Sandwiches,Cinnamon & Raisin Bagel with Nutella,,2.19,430
+309,Bakery,Bagel & Bagel Sandwiches,Plain Bagel with Regular Cream Cheese,,2.19,370
+310,Bakery,Bagel & Bagel Sandwiches,Everything Bagel with Regular Cream Cheese,,2.19,380
+311,Bakery,Bagel & Bagel Sandwiches,Multigrain Bagel with Regular Cream Cheese,,2.19,390
+312,Bakery,Bagel & Bagel Sandwiches,Cinnamon & Raisin Bagel with Regular Cream Cheese,,2.19,380
+313,Bakery,Bagel & Bagel Sandwiches,Plain Bagel with Herb & Garlic Cream Cheese,,2.19,370
+314,Bakery,Bagel & Bagel Sandwiches,Everything Bagel with Herb & Garlic Cream Cheese,,2.19,380
+315,Bakery,Bagel & Bagel Sandwiches,Multigrain Bagel with Herb & Garlic Cream Cheese,,2.19,390
+316,Bakery,Bagel & Bagel Sandwiches,Cinnamon & Raisin Bagel with Herb & Garlic Cream Cheese,,2.19,380
+317,Bakery,Bagel & Bagel Sandwiches,Plain Bagel,,1.39,310
+318,Bakery,Bagel & Bagel Sandwiches,Everything Bagel,,1.39,320
+319,Bakery,Bagel & Bagel Sandwiches,Multigrain Bagel,,1.39,330
+320,Bakery,Bagel & Bagel Sandwiches,Cinnamon & Raisin Bagel,,1.39,320
+321,Bakery,Bagel & Bagel Sandwiches,Plain Egg BLT Bagel,,4.69,560
+322,Bakery,Bagel & Bagel Sandwiches,Plain Bacon 'N Egg Bagel,,4.29,550
+323,Bakery,Bagel & Bagel Sandwiches,Plain Sausage 'N Egg Bagel,,4.29,610
+324,Bakery,Bagel & Bagel Sandwiches,Everything Egg BLT Bagel,,4.69,570
+325,Bakery,Bagel & Bagel Sandwiches,Multigrain Egg BLT Bagel,,4.69,580
+326,Bakery,Bagel & Bagel Sandwiches,Cinnamon & Raisin Egg BLT Bagel,,4.69,570
+327,Bakery,Bagel & Bagel Sandwiches,Everything Bacon 'N Egg Bagel,,4.29,560
+328,Bakery,Bagel & Bagel Sandwiches,Multigrain Bacon 'N Egg Bagel,,4.29,570
+329,Bakery,Bagel & Bagel Sandwiches,Cinnamon & Raisin Bacon 'N Egg Bagel,,4.29,560
+330,Bakery,Bagel & Bagel Sandwiches,Everything Sausage 'N Egg Bagel,,4.29,620
+331,Bakery,Bagel & Bagel Sandwiches,Multigrain Sausage 'N Egg Bagel,,4.29,570
+332,Bakery,Bagel & Bagel Sandwiches,Cinnamon & Raisin Sausage 'N Egg Bagel,,4.29,620
+333,Bakery,Baked Muffins,Banana Chocolate Chunk Muffin,,1.49,430
+334,Bakery,Baked Muffins,Blueberry Mufin,,1.49,430
+335,Bakery,Baked Muffins,Fruit & Fibrer Muffin,,1.49,380
+336,Bakery,Baked Muffins,Cranberry Orange Muffin,,1.49,360
+337,Bakery,Baked Muffins,Carrot Muffin,,1.43,430
+338,Bakery,Signature Danish,Strawberry Cream Cheese Danish,,1.69,390
+339,Bakery,Signature Danish,Blueberry Cream Cheese Danish,,1.69,300
+340,Bakery,Signature Danish,Salted Caramel Apple Danish,,1.69,360
+341,Bakery,French Croissant & Mini Pastries,Chocolate Hazelnut Croissant,,2.69,360
+342,Bakery,French Croissant & Mini Pastries,Authentic French Croissant,,1.69,260
+343,Bakery,French Croissant & Mini Pastries,Mini Chocolatine,,0.89,120
+344,Bakery,Brownie,Chocolate Brownie,,1.99,310
+345,Bakery,Bakery Pairings,Banana Chocolate Chunk Muffin Pairing,,2.01,430
+346,Bakery,Bakery Pairings,Blueberry Muffin Pairing,,2.01,430
+347,Bakery,Bakery Pairings,Fruit & Fibre Muffin Pairing,,2.01,380
+348,Bakery,Bakery Pairings,Carrot Muffin Pairing,,2.01,430
+349,Bakery,Bakery Pairings,Cranberry Orange Muffin Pairing,,2.01,360
+350,Bakery,Bakery Pairings,Mini Chocolatine Pastry McCafe Pairing,,2.99,200
+351,Bakery,Bakery Pairings,Strawberry Cream Cheese Danish Pairing,,2.71,390
+352,Bakery,Bakery Pairings,Blueberry Cream Cheese Danish Pairing,,2.71,300
+353,Bakery,Bakery Pairings,Salted Caramel Apple Danish Pairing,,2.71,360
+354,Bakery,Baked Pies,Baked Apple Pie,,1.19,270
+355,Bakery,Baked Pies,2 Baked Apple Pies,,1.79,270
+356,Sweets & Treats,McFlurry,Regular Crème Egg McFlurry,Snack,2.69,420
+357,Sweets & Treats,McFlurry,Regular Crème Egg McFlurry,Regular,3.39,630
+358,Sweets & Treats,McFlurry,Regular Oreo McFlurry,Snack,2.69,330
+359,Sweets & Treats,McFlurry,Regular Oreo McFlurry,Regular,3.39,570
+360,Sweets & Treats,McFlurry,Regular M&M McFlurry,Snack,2.69,410
+361,Sweets & Treats,McFlurry,Regular M&M McFlurry,Regular,3.39,620
+362,Sweets & Treats,McFlurry,Regular Skor McFlurry,Snack,2.69,370
+363,Sweets & Treats,McFlurry,Regular Skor McFlurry,Regular,3.39,430
+364,Sweets & Treats,Sundaes & Cones,Vanilla Cone,,1.79,230
+365,Sweets & Treats,Sundaes & Cones,Fudge Sundae,,2.69,340
+366,Sweets & Treats,Sundaes & Cones,Caramel Sundae,,2.69,340
+367,Sweets & Treats,Sundaes & Cones,Plain Sundae,,2.69,210
+368,Sweets & Treats,Cookies,Red Velvet Cookie,,0.99,160
+369,Sweets & Treats,Cookies,Chocolate Chunk Cookie,,0.99,160
+370,Sweets & Treats,Cookies,Lil' Gem Cookie,,0.99,150
+371,Snacks & Sides,Poutine,Poutine,,4.49,880
+372,Snacks & Sides,Fries,Fries,Small,1.69,240
+373,Snacks & Sides,Fries,Fries,Medium,2.89,350
+374,Snacks & Sides,Fries,Fries,Large,3.29,560
+375,Condiments,McNugget Sauces,Barbeque Sauce,,0.2,40
+376,Condiments,McNugget Sauces,Sweet & Sour Sauce,,0.2,50
+377,Condiments,McNugget Sauces,Honey,,0.2,45
+378,Condiments,McNugget Sauces,Hot Mustard,,0.2,60
+379,Condiments,Salad Dressings,Asiago Caesar Cal-W Dressing,,0.6,150
+380,Condiments,Salad Dressings,Asiago Caesar Dressing,,0.6,210
+381,Condiments,Salad Dressings,Greek Dressing,,0.6,140
+382,Condiments,Salad Dressings,Sweet Balsamic Dressing,,0.6,120
+383,Condiments,Other Condiments,Big Mac Sauce,,0.3,50
+384,Condiments,Other Condiments,Mayo-Style Sauce,,0.1,60
+385,Condiments,Other Condiments,Ketchup Packets,,0,10
+386,Condiments,Other Condiments,Salt,,0,0
+387,Condiments,Other Condiments,Pepper Packets,,0,0
+388,Condiments,Other Condiments,Butter Packet,,0,35
+389,Condiments,Other Condiments,Peanut Butter,,0,110
+390,Condiments,Other Condiments,Becel Portions,,0,50
+391,Condiments,Other Condiments,Gravy,,0.59,320
+392,Condiments,Other Condiments,Vinegar Packet,,0,2
+393,Condiments,Other Condiments,Cream Packets,,0,15
+394,Condiments,Other Condiments,Milk Packets,,0,5
+395,Condiments,Other Condiments,Regular Cream Cheese,,0.8,110
+396,Condiments,Other Condiments,Herb & Garlic Cream Cheese,,0.8,110
